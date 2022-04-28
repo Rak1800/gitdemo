@@ -1,2 +1,4 @@
 This is the first line
 The name is rakesh
+all are friend
+ram
